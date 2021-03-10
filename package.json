@@ -1,0 +1,24 @@
+{
+  "name": "reactjs-popup-alert",
+  "version": "1.0.0",
+  "description": "custom popup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khawkriab/reactjs-popup-alert.git"
+  },
+  "keywords": [
+    "reactjs",
+    "popup",
+    "alert"
+  ],
+  "author": "khawkriab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khawkriab/reactjs-popup-alert/issues"
+  },
+  "homepage": "https://github.com/khawkriab/reactjs-popup-alert#readme"
+}
